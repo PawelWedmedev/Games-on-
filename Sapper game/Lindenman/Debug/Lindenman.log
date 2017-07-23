@@ -1,0 +1,33 @@
+﻿  Source.cpp
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(57): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(78): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(110): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(332): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(335): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(357): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(360): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(380): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(383): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(414): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(417): warning C4305: =: усечение из "double" к "float"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(455): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(459): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(476): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(503): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(478): warning C4101: f5: неиспользованная локальная переменная
+c:\users\mrmid\desktop\ggit\games-on-\sapper game\lindenman\source.cpp(199): warning C4715: points: значение возвращается не при всех путях выполнения
+  Lindenman.vcxproj -> C:\Users\mrmid\Desktop\Ggit\Games-on-\Sapper game\Debug\Lindenman.exe
+  Lindenman.vcxproj -> C:\Users\mrmid\Desktop\Ggit\Games-on-\Sapper game\Debug\Lindenman.pdb (Full PDB)
